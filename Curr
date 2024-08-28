@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Currículo</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>Thiago Alves dos Santos</h1>
+            <p>Email: thithiagoalves1@gmail.com | Telefone: (11) 95457-1225</p>
+            <p>Endereço: Rua Otusco, 361, São Paulo, SP, 05797430</p>
+        </header>
+        <section>
+            <h2>Objetivo</h2>
+            <p>Ingressar no mercado de trabalho.</p>
+        </section>
+        <section>
+            <h2>Experiência</h2>
+            <div class="job">
+                <h3>Jungle mix pet</h3>
+                <p><strong>Atendente:</strong> Seu Cargo</p>
+                <p><strong>Tarde:</strong> 09/2022 - Atualmente</p>
+                <p><strong>Atendimento</strong></p>
+                <ul>
+                    <li>Atendimento</li>
+                    <li>Organização de estoque</li>
+                    <li>Limpeza</li>
